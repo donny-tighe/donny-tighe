@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donny-tighe
 - 👀 I’m interested in mathematics and scientific programming.
 - 🌱 I’m currently working on a BSc in Mathematics.
-- 💞️ I’m looking to collaborate on Python, C++, MATLAB, and Mathematica learning projects for noobs like me.
+- 💞️ I’m looking to collaborate on Python, C++, R, MATLAB, and Mathematica learning projects for noobs like me.
 - 📫 How to reach me: donny.tighe@protonmail.com
 
 <!---
